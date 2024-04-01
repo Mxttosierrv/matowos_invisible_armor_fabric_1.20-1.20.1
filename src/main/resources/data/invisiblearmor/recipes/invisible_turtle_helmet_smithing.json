@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "base": {
+    "item": "minecraft:turtle_helmet"
+  },
+  "result": {
+    "item": "matowos-invisible-armor:invisible_turtle_helmet"
+  },
+  "template": {
+    "item": "matowos-invisible-armor:invisible_armor_smithing_template"
+  },
+  "show_notification": false
+}

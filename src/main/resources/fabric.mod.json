@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "matowos-invisible-armor",
+	"version": "${version}",
+	"name": "Matowo's Invisible Armor",
+	"description": "Show off your skin!!",
+	"authors": [
+		"Matowo"
+	],
+	"contact": {
+		"homepage": "https://github.com/Konstantiniyye/Matowos-Invisible-Armor",
+		"issues": "https://github.com/Konstantiniyye/Matowos-Invisible-Armor/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/matowos-invisible-armor/textures/item/invisible_armor_smithing_template.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.matowo.invisiblearmor.MatowosInvisibleArmor"
+		],
+		"client": [
+			"net.matowo.invisiblearmor.MatowosInvisibleArmorClient"
+		],
+		"fabric-datagen": [
+			"net.matowo.invisiblearmor.MatowosInvisibleArmorDataGenerator"
+		]
+	},
+	"mixins": [
+		"matowos-invisible-armor.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
