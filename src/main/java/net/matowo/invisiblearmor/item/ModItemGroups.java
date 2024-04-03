@@ -13,7 +13,7 @@ public class ModItemGroups {
     public static final ItemGroup INVISIBLE_ARMOR = Registry.register(Registries.ITEM_GROUP,
             new Identifier(MatowosInvisibleArmor.MOD_ID, "invisible_armor"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.invisible_armor"))
-                    .icon(() -> new ItemStack(ModItems.INVISIBLE_ARMOR_SMITHING_TEMPLATE)).entries((displayContext, entries) -> {
+                    .icon(() -> new ItemStack(ModItems.INVISIBLE_DIAMOND_CHESTPLATE)).entries((displayContext, entries) -> {
 
                     // ADD MODITEMS TO CREATIVE TAB
                         // smithing template

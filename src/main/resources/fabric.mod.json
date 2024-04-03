@@ -8,11 +8,11 @@
 		"Matowo"
 	],
 	"contact": {
-		"homepage": "https://github.com/Konstantiniyye/Matowos-Invisible-Armor",
-		"issues": "https://github.com/Konstantiniyye/Matowos-Invisible-Armor/issues"
+		"issues": "https://github.com/Mxttosierrv/Matowos-Invisible-Armor/issues",
+		"sources": "https://github.com/Mxttosierrv/Matowos-Invisible-Armor"
 	},
 	"license": "MIT",
-	"icon": "assets/matowos-invisible-armor/textures/item/invisible_armor_smithing_template.png",
+	"icon": "assets/matowos-invisible-armor/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

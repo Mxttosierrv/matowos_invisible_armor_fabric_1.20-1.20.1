@@ -40,6 +40,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
     INVISIBLE_NETHERITE("invisible", 37, new int[] { 3, 8, 6, 3 }, 15,
             SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 3.0f, 0.1f,
             () -> Ingredient.ofItems(Items.NETHERITE_INGOT))
+
     ;
 
 

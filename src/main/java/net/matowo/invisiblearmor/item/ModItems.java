@@ -123,6 +123,7 @@ public class ModItems {
             new ArmorItem(ModArmorMaterials.INVISIBLE_TURTLE, ArmorItem.Type.HELMET, new FabricItemSettings()));
 
 
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(MatowosInvisibleArmor.MOD_ID, name), item);
     }
