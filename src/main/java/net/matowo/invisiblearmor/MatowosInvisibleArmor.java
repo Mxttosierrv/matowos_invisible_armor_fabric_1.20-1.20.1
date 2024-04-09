@@ -8,7 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class MatowosInvisibleArmor implements ModInitializer {
-	public static final String MOD_ID = "matowos-invisible-armor";
+	public static final String MOD_ID = "matowos_invisible_armor";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override

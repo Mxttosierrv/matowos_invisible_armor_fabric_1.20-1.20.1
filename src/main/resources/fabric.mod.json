@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "matowos-invisible-armor",
+	"id": "matowos_invisible_armor",
 	"version": "${version}",
 	"name": "Matowo's Invisible Armor",
 	"description": "Show off your skin!!",
@@ -13,7 +13,7 @@
 		"sources": "https://github.com/Mxttosierrv/Matowos-Invisible-Armor"
 	},
 	"license": "MIT",
-	"icon": "assets/matowos-invisible-armor/icon.png",
+	"icon": "assets/matowos_invisible_armor/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -27,7 +27,7 @@
 		]
 	},
 	"mixins": [
-		"matowos-invisible-armor.mixins.json"
+		"matowos_invisible_armor.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.7",

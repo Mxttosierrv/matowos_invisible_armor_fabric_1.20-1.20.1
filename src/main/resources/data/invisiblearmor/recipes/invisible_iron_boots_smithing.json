@@ -7,10 +7,10 @@
     "item": "minecraft:iron_boots"
   },
   "result": {
-    "item": "matowos-invisible-armor:invisible_iron_boots"
+    "item": "matowos_invisible_armor:invisible_iron_boots"
   },
   "template": {
-    "item": "matowos-invisible-armor:invisible_armor_smithing_template"
+    "item": "matowos_invisible_armor:invisible_armor_smithing_template"
   },
   "show_notification": false
 }

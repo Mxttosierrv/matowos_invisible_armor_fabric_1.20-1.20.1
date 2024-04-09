@@ -4,13 +4,13 @@
     "item": "minecraft:copper_ingot"
   },
   "base": {
-    "item": "matowos-invisible-armor:invisible_leather_helmet"
+    "item": "matowos_invisible_armor:invisible_leather_helmet"
   },
   "result": {
     "item": "minecraft:leather_helmet"
   },
   "template": {
-    "item": "matowos-invisible-armor:visible_armor_smithing_template"
+    "item": "matowos_invisible_armor:visible_armor_smithing_template"
   },
   "show_notification": false
 }
