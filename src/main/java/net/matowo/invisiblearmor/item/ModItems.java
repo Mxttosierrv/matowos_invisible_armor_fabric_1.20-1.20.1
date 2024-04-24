@@ -1,8 +1,10 @@
 package net.matowo.invisiblearmor.item;
 
+import net.fabricmc.fabric.api.entity.event.v1.FabricElytraItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.matowo.invisiblearmor.MatowosInvisibleArmor;
 import net.minecraft.item.ArmorItem;
+import net.minecraft.item.ElytraItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.SmithingTemplateItem;
 import net.minecraft.registry.Registries;
@@ -10,6 +12,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Formatting;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.Rarity;
 import net.minecraft.util.Util;
 
 import java.util.List;
@@ -18,11 +21,15 @@ public class ModItems {
     // VARIABLES
     private static final Formatting TITLE_FORMATTING = Formatting.GRAY;
     private static final Formatting DESCRIPTION_FORMATTING = Formatting.BLUE;
+    private static final Formatting ELYTRA_NAME = Formatting.YELLOW;
+
     private static final Identifier EMPTY_ARMOR_SLOT_HELMET_TEXTURE = new Identifier("item/empty_armor_slot_helmet");
     private static final Identifier EMPTY_ARMOR_SLOT_CHESTPLATE_TEXTURE = new Identifier("item/empty_armor_slot_chestplate");
     private static final Identifier EMPTY_ARMOR_SLOT_LEGGINGS_TEXTURE = new Identifier("item/empty_armor_slot_leggings");
     private static final Identifier EMPTY_ARMOR_SLOT_BOOTS_TEXTURE = new Identifier("item/empty_armor_slot_boots");
     private static  final Identifier EMPTY_SLOT_INGOT_TEXTURE = new Identifier("item/empty_slot_ingot");
+
+
 
     private static List<Identifier> getEmptyArmorSlots() {
         return List.of(
@@ -62,6 +69,11 @@ public class ModItems {
                     getEmptyArmorSlots(),
                     getEmptyAdditionSlots()
             ));
+
+
+    // ELYTRA
+    public static final Item INVISIBLE_ELYTRA = registerItem("invisible_elytra", new ModElytraItem(
+            new Item.Settings().maxDamage(432).rarity(Rarity.UNCOMMON)));
 
 
     // ARMORS

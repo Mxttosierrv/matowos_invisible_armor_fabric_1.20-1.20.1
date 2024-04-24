@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.matowo.invisiblearmor.item.ModItemGroups;
 import net.matowo.invisiblearmor.item.ModItems;
+import net.matowo.invisiblearmor.item.ModModelPredicate;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,5 +16,6 @@ public class MatowosInvisibleArmor implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModModelPredicate.registerBrokenElytraPredicate();
 	}
 }
