@@ -4,20 +4,26 @@
 
   "item.matowos_invisible_armor.invisible_armor_smithing_template": "Molde de ferraria",
   "item.minecraft.invisible_smithing_template.tittle": "Melhoria de armadura invisível",
-  "item.minecraft.invisible_smithing_template.applies_to": "Qualquer armadura",
+  "item.minecraft.invisible_smithing_template.applies_to": "Armadura, Armadura para cavalo e Élitros",
   "item.minecraft.invisible_smithing_template.ingredients": "Barra de cobre",
-  "item.minecraft.invisible_smithing_template.base_slot_description": "Adicione uma armadura",
+  "item.minecraft.invisible_smithing_template.base_slot_description": "Adicione uma armadura, armadura para cavalo ou uns Élitros",
   "item.minecraft.invisible_smithing_template.additions_slot_description": "Adicione uma barra de cobre",
 
   "item.matowos_invisible_armor.visible_armor_smithing_template": "Molde de ferraria",
   "item.minecraft.visible_smithing_template.tittle": "Melhoria de armadura visível",
-  "item.minecraft.visible_smithing_template.applies_to": "Arnaduras invisíveis",
+  "item.minecraft.visible_smithing_template.applies_to": "Armadura invisível, Armadura para cavalo invisível e Élitros invisíveis",
   "item.minecraft.visible_smithing_template.ingredients": "Barra de cobre",
-  "item.minecraft.visible_smithing_template.base_slot_description": "Adicione uma armadura invisível",
+  "item.minecraft.visible_smithing_template.base_slot_description": "Adicione uma armadura invisível, armadura para cavalo invisível ou uns Élitros invisíveis",
   "item.minecraft.visible_smithing_template.additions_slot_description": "Adicione uma barra de cobre",
 
 
   "item.matowos_invisible_armor.invisible_elytra": "Élitros Invisíveis",
+
+
+  "item.matowos_invisible_armor.invisible_leather_horse_armor": "Armadura de cuoro para cavalo invisível",
+  "item.matowos_invisible_armor.invisible_iron_horse_armor": "Armadura de ferro para cavalo invisível",
+  "item.matowos_invisible_armor.invisible_golden_horse_armor": "Armadura de ouro para cavalo invisível",
+  "item.matowos_invisible_armor.invisible_diamond_horse_armor": "Armadura de diamante para cavalo invisível",
 
 
   "item.matowos_invisible_armor.invisible_leather_helmet": "Barrete de cuoro invisível",

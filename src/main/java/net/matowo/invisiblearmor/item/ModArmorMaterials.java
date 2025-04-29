@@ -3,7 +3,6 @@ package net.matowo.invisiblearmor.item;
 import net.matowo.invisiblearmor.MatowosInvisibleArmor;
 import net.minecraft.item.ArmorItem;
 import net.minecraft.item.ArmorMaterial;
-import net.minecraft.item.Item;
 import net.minecraft.item.Items;
 import net.minecraft.recipe.Ingredient;
 import net.minecraft.sound.SoundEvent;

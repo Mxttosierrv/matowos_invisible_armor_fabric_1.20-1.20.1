@@ -8,7 +8,9 @@ import net.minecraft.data.client.ItemModelGenerator;
 import net.minecraft.data.client.Model;
 import net.minecraft.data.client.Models;
 import net.minecraft.item.ArmorItem;
+import net.minecraft.item.DyeableArmorItem;
 import net.minecraft.item.ElytraItem;
+import net.minecraft.item.HorseArmorItem;
 
 
 public class ModModelProvider extends FabricModelProvider {
@@ -26,14 +28,8 @@ public class ModModelProvider extends FabricModelProvider {
         // SMITHING TEMPLATE
         itemModelGenerator.register(ModItems.INVISIBLE_ARMOR_SMITHING_TEMPLATE, Models.GENERATED);
         itemModelGenerator.register(ModItems.VISIBLE_ARMOR_SMITHING_TEMPLATE, Models.GENERATED);
-        
 
         // ARMORS
-        itemModelGenerator.registerArmor(((ArmorItem) ModItems.INVISIBLE_LEATHER_HELMET));
-        itemModelGenerator.registerArmor(((ArmorItem) ModItems.INVISIBLE_LEATHER_CHESTPLATE));
-        itemModelGenerator.registerArmor(((ArmorItem) ModItems.INVISIBLE_LEATHER_LEGGINGS));
-        itemModelGenerator.registerArmor(((ArmorItem) ModItems.INVISIBLE_LEATHER_BOOTS));
-
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.INVISIBLE_CHAINMAIL_HELMET));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.INVISIBLE_CHAINMAIL_CHESTPLATE));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.INVISIBLE_CHAINMAIL_LEGGINGS));

@@ -4,20 +4,26 @@
 
   "item.matowos_invisible_armor.invisible_armor_smithing_template": "Schema di forgiatura",
   "item.minecraft.invisible_smithing_template.tittle": "Miglioramento di armatura invisibile",
-  "item.minecraft.invisible_smithing_template.applies_to": "Qualsiasi armatura",
+  "item.minecraft.invisible_smithing_template.applies_to": "Armatura, Bardatura ed Elitre",
   "item.minecraft.invisible_smithing_template.ingredients": "Lingotto di rame",
-  "item.minecraft.invisible_smithing_template.base_slot_description": "Inserisci un'armatura",
+  "item.minecraft.invisible_smithing_template.base_slot_description": "Inserisci un'armatura, bardatura o un'Elitre",
   "item.minecraft.invisible_smithing_template.additions_slot_description": "Inserisci un lingotto di rame",
 
   "item.matowos_invisible_armor.visible_armor_smithing_template": "Schema di forgiatura",
   "item.minecraft.visible_smithing_template.tittle": "Miglioramento di armatura visibile",
-  "item.minecraft.visible_smithing_template.applies_to": "Armatori invisibili",
+  "item.minecraft.visible_smithing_template.applies_to": "Armatura invisibile, Bardatura invisibile ed Elitre invisibili",
   "item.minecraft.visible_smithing_template.ingredients": "Lingotto di rame",
-  "item.minecraft.visible_smithing_template.base_slot_description": "Inserisci un'armatura invisibile",
+  "item.minecraft.visible_smithing_template.base_slot_description": "Inserisci un'armatura invisibile, bardatura invisibile o un'Elitre invisibili",
   "item.minecraft.visible_smithing_template.additions_slot_description": "Inserisci un lingotto di rame",
 
 
-  "item.matowos_invisible_armor.invisible_elytra": "Elitre Invisibile",
+  "item.matowos_invisible_armor.invisible_elytra": "Elitre Invisibili",
+
+
+  "item.matowos_invisible_armor.invisible_leather_horse_armor": "Bardatura di cuoio invisibile",
+  "item.matowos_invisible_armor.invisible_iron_horse_armor": "Bardatura di ferro invisibile",
+  "item.matowos_invisible_armor.invisible_golden_horse_armor": "Bardatura d'oro invisibile",
+  "item.matowos_invisible_armor.invisible_diamond_horse_armor": "Bardatura di diamante invisibile",
 
 
   "item.matowos_invisible_armor.invisible_leather_helmet": "Casco di cuoio invisibile",

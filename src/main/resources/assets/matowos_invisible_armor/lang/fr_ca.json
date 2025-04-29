@@ -4,20 +4,26 @@
 
   "item.matowos_invisible_armor.invisible_armor_smithing_template": "Modèle de forge ",
   "item.minecraft.invisible_smithing_template.tittle": "Amélioration de l'armure invisible",
-  "item.minecraft.invisible_smithing_template.applies_to": "Toutes les armures",
+  "item.minecraft.invisible_smithing_template.applies_to": "Armure, Armure pour cheval et Élytres",
   "item.minecraft.invisible_smithing_template.ingredients": "Lingot de cuivre",
-  "item.minecraft.invisible_smithing_template.base_slot_description": "Ajoutez une pièce d'armure",
+  "item.minecraft.invisible_smithing_template.base_slot_description": "Ajoutez une pièce d'armure, armure pour cheval ou des Élytres",
   "item.minecraft.invisible_smithing_template.additions_slot_description": "Ajoutez un lingot de cuivre",
 
   "item.matowos_invisible_armor.visible_armor_smithing_template": "Modèle de forge",
   "item.minecraft.visible_smithing_template.tittle": "Amélioration de l'armure visible",
-  "item.minecraft.visible_smithing_template.applies_to": "Armures invisibles",
+  "item.minecraft.visible_smithing_template.applies_to": "Armure invisible, Armure pour cheval invisible et Élytres invisibles",
   "item.minecraft.visible_smithing_template.ingredients": "Lingot de cuivre",
-  "item.minecraft.visible_smithing_template.base_slot_description": "Ajoutez une pièce d'armure",
+  "item.minecraft.visible_smithing_template.base_slot_description": "Ajoutez une pièce d'armure invisible, armure pour cheval ou des Élytres invisibles",
   "item.minecraft.visible_smithing_template.additions_slot_description": "Ajoutez un lingot de cuivre",
 
 
   "item.matowos_invisible_armor.invisible_elytra": "Élytres Invisibles",
+
+
+  "item.matowos_invisible_armor.invisible_leather_horse_armor": "Armure pour cheval en cuir invisible",
+  "item.matowos_invisible_armor.invisible_iron_horse_armor": "Armure pour cheval en fer invisible",
+  "item.matowos_invisible_armor.invisible_golden_horse_armor": "Armure pour cheval en or invisible",
+  "item.matowos_invisible_armor.invisible_diamond_horse_armor": "Armure pour cheval en diamant invisible",
 
 
   "item.matowos_invisible_armor.invisible_leather_helmet": "Calotte en cuir invisible",

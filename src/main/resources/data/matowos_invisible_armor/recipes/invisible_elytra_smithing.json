@@ -4,10 +4,10 @@
     "item": "minecraft:copper_ingot"
   },
   "base": {
-    "item": "minecraft:leather_chestplate"
+    "item": "minecraft:elytra"
   },
   "result": {
-    "item": "matowos_invisible_armor:invisible_leather_chestplate"
+    "item": "matowos_invisible_armor:invisible_elytra"
   },
   "template": {
     "item": "matowos_invisible_armor:invisible_armor_smithing_template"

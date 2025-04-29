@@ -4,20 +4,26 @@
 
   "item.matowos_invisible_armor.invisible_armor_smithing_template": "Plantilla de herrería",
   "item.minecraft.invisible_smithing_template.tittle": "Mejora de armadura invisible",
-  "item.minecraft.invisible_smithing_template.applies_to": "Cualquier armadura",
+  "item.minecraft.invisible_smithing_template.applies_to": "Armaduras y Elytra",
   "item.minecraft.invisible_smithing_template.ingredients": "Lingote de cobre",
-  "item.minecraft.invisible_smithing_template.base_slot_description": "Agregá una armadura",
+  "item.minecraft.invisible_smithing_template.base_slot_description": "Agregá una armadura o una Elytra",
   "item.minecraft.invisible_smithing_template.additions_slot_description": "Agregá un lingote de cobre",
 
   "item.matowos_invisible_armor.visible_armor_smithing_template": "Plantilla de herrería",
   "item.minecraft.visible_smithing_template.tittle": "Mejora de armadura visible",
-  "item.minecraft.visible_smithing_template.applies_to": "Armaduras invisibles",
+  "item.minecraft.visible_smithing_template.applies_to": "Armaduras invisibles y Elytra invisible",
   "item.minecraft.visible_smithing_template.ingredients": "Lingote de cobre",
-  "item.minecraft.visible_smithing_template.base_slot_description": "Agregá una armadura invisible",
+  "item.minecraft.visible_smithing_template.base_slot_description": "Agregá una armadura invisible o una Elytra invisible",
   "item.minecraft.visible_smithing_template.additions_slot_description": "Agregá un lingote de cobre",
 
 
   "item.matowos_invisible_armor.invisible_elytra": "Elytra Invisible",
+
+
+  "item.matowos_invisible_armor.invisible_leather_horse_armor": "Armadura de cuero para caballo invisible",
+  "item.matowos_invisible_armor.invisible_iron_horse_armor": "Armadura de hierro para caballo invisible",
+  "item.matowos_invisible_armor.invisible_golden_horse_armor": "Armadura de oro para caballo invisible",
+  "item.matowos_invisible_armor.invisible_diamond_horse_armor": "Armadura de diamante para caballo invisible",
 
 
   "item.matowos_invisible_armor.invisible_leather_helmet": "Gorro de cuero invisible",

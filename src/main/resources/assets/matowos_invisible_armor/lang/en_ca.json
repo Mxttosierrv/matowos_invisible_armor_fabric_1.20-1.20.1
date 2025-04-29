@@ -4,20 +4,26 @@
 
   "item.matowos_invisible_armor.invisible_armor_smithing_template": "Smithing Template",
   "item.minecraft.invisible_smithing_template.tittle": "Invisible Armour Upgrade",
-  "item.minecraft.invisible_smithing_template.applies_to": "Any Armour",
+  "item.minecraft.invisible_smithing_template.applies_to": "Armour, Horse Armour & Elytra",
   "item.minecraft.invisible_smithing_template.ingredients": "Copper Ingot",
-  "item.minecraft.invisible_smithing_template.base_slot_description": "Add Armour",
+  "item.minecraft.invisible_smithing_template.base_slot_description": "Add armour, horse armour or Elytra",
   "item.minecraft.invisible_smithing_template.additions_slot_description": "Add Copper Ingot",
 
   "item.matowos_invisible_armor.visible_armor_smithing_template": "Smithing Template",
   "item.minecraft.visible_smithing_template.tittle": "Visible Armour Upgrade",
-  "item.minecraft.visible_smithing_template.applies_to": "Invisible Armours",
+  "item.minecraft.visible_smithing_template.applies_to": "Invisible Armour, Invisible Horse Armour & Invisible Elytra",
   "item.minecraft.visible_smithing_template.ingredients": "Copper Ingot",
-  "item.minecraft.visible_smithing_template.base_slot_description": "Add Invisible Armour",
+  "item.minecraft.visible_smithing_template.base_slot_description": "Add invisible armour, invisible horse armour or invisible Elytra",
   "item.minecraft.visible_smithing_template.additions_slot_description": "Add Copper Ingot",
 
 
   "item.matowos_invisible_armor.invisible_elytra": "Invisible Elytra",
+
+
+  "item.matowos_invisible_armor.invisible_leather_horse_armor": "Invisible Leather Horse Armour",
+  "item.matowos_invisible_armor.invisible_iron_horse_armor": "Invisible Iron Horse Armour",
+  "item.matowos_invisible_armor.invisible_golden_horse_armor": "Invisible Golden Horse Armour",
+  "item.matowos_invisible_armor.invisible_diamond_horse_armor": "Invisible Diamond Horse Armour",
 
 
   "item.matowos_invisible_armor.invisible_leather_helmet": "Invisible Leather Cap",

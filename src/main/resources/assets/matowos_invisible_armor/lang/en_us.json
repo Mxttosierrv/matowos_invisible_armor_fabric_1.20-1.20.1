@@ -4,20 +4,26 @@
 
   "item.matowos_invisible_armor.invisible_armor_smithing_template": "Smithing Template",
   "item.minecraft.invisible_smithing_template.tittle": "Invisible Armor Upgrade",
-  "item.minecraft.invisible_smithing_template.applies_to": "Any Armor",
+  "item.minecraft.invisible_smithing_template.applies_to": "Armor, Horse Armor & Elytra",
   "item.minecraft.invisible_smithing_template.ingredients": "Copper Ingot",
-  "item.minecraft.invisible_smithing_template.base_slot_description": "Add Armor",
+  "item.minecraft.invisible_smithing_template.base_slot_description": "Add armor, horse armor or Elytra",
   "item.minecraft.invisible_smithing_template.additions_slot_description": "Add Copper Ingot",
 
   "item.matowos_invisible_armor.visible_armor_smithing_template": "Smithing Template",
   "item.minecraft.visible_smithing_template.tittle": "Visible Armor Upgrade",
-  "item.minecraft.visible_smithing_template.applies_to": "Invisible Armors",
+  "item.minecraft.visible_smithing_template.applies_to": "Invisible Armor, Invisible Horse Armor & Invisible Elytra",
   "item.minecraft.visible_smithing_template.ingredients": "Copper Ingot",
-  "item.minecraft.visible_smithing_template.base_slot_description": "Add Invisible Armor",
+  "item.minecraft.visible_smithing_template.base_slot_description": "Add invisible armor, invisible horse armor or invisible Elytra",
   "item.minecraft.visible_smithing_template.additions_slot_description": "Add Copper Ingot",
 
 
   "item.matowos_invisible_armor.invisible_elytra": "Invisible Elytra",
+
+
+  "item.matowos_invisible_armor.invisible_leather_horse_armor": "Invisible Leather Horse Armor",
+  "item.matowos_invisible_armor.invisible_iron_horse_armor": "Invisible Iron Horse Armor",
+  "item.matowos_invisible_armor.invisible_golden_horse_armor": "Invisible Golden Horse Armor",
+  "item.matowos_invisible_armor.invisible_diamond_horse_armor": "Invisible Diamond Horse Armor",
 
 
   "item.matowos_invisible_armor.invisible_leather_helmet": "Invisible Leather Cap",

@@ -20,6 +20,9 @@ public class ModItemGroups {
                         entries.add(ModItems.INVISIBLE_ARMOR_SMITHING_TEMPLATE);
                         entries.add(ModItems.VISIBLE_ARMOR_SMITHING_TEMPLATE);
 
+                        // elytra
+                        entries.add(ModItems.INVISIBLE_ELYTRA);
+
                         // armors
                         entries.add(ModItems.INVISIBLE_LEATHER_HELMET);
                         entries.add(ModItems.INVISIBLE_LEATHER_CHESTPLATE);
@@ -52,6 +55,12 @@ public class ModItemGroups {
                         entries.add(ModItems.INVISIBLE_NETHERITE_BOOTS);
 
                         entries.add(ModItems.INVISIBLE_TURTLE_HELMET);
+
+                        // horse armors
+                        entries.add(ModItems.INVISIBLE_LEATHER_HORSE_ARMOR);
+                        entries.add(ModItems.INVISIBLE_IRON_HORSE_ARMOR);
+                        entries.add(ModItems.INVISIBLE_GOLDEN_HORSE_ARMOR);
+                        entries.add(ModItems.INVISIBLE_DIAMOND_HORSE_ARMOR);
                     }).build());
 
     public static void registerItemGroups() {
